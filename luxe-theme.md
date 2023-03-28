@@ -4,6 +4,8 @@ menu_order: 1
 taxonomy:
     doc_category: wordpress-plugins
 ---
+Testing 
+Habitasse nisi inceptos semper vitae tempor vehicula commodo molestie auctor, donec phasellus finibus facilisi cras class nascetur quam.
 
 Using "Git it write" WordPress plugin, you can publish markdown present in a Github repository.
 
