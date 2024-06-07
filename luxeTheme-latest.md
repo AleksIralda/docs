@@ -1,5 +1,15 @@
 # Luxe Theme Changelog 
 
+###V2.1.0 (06/06/24)
+-[FIXED] Usign GoogleTranslate Module not work propertly in Luxe Theme.
+Files updated:
+LuxeTemplate/Resources/views/templates/mobile-menu.blade.php
+LuxeTemplate/Resources/views/templates/place-header.blade.php
+public/luxe/main.css
+
+It's propably needed update browser cache or server cache to see changes.
+
+
 ###V2 (11/03/24)
 - [UPDATED] The theme was updated to works smoothly over V4.0.2
 - [FIXED] The amount of items shown in the mobile menu (order summary) now maintains the correct structure even when there are a lot of them.
