@@ -1,7 +1,7 @@
 # Luxe Theme Changelog 
 
 ###V2.1.0 (06/06/24)
--[FIXED] Usign GoogleTranslate Module not work propertly in Luxe Theme.
+- [FIXED] Usign GoogleTranslate Module not work propertly in Luxe Theme.
 Files updated:
 LuxeTemplate/Resources/views/templates/mobile-menu.blade.php
 LuxeTemplate/Resources/views/templates/place-header.blade.php
